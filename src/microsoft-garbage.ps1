@@ -4,5 +4,5 @@ Get-AppxPackage *bingsports* | Remove-AppxPackage # Bing Sports
 Get-AppxPackage *zunevideo* | Remove-AppxPackage # Zune Video
 Get-AppxPackage *solitairecollection* | Remove-AppxPackage # Solitaire Collection :P
 Get-AppxPackage *skypeapp* | Remove-AppxPackage # "Get Skype" nagware
-
+Get-AppxPackage *CandyCrushSaga* | Remove-AppxPackage # Candy Crush Saga
 pause
